@@ -1,0 +1,30 @@
+getMovieById
+getMovieByChoice(String hoice)
+getAllMovies
+deleteMovie
+updateMovie
+addMovie
+
+ 
+
+Movie
+  movieTitle
+  language
+  duration in string
+  ratings
+  genre - mystery
+  desc
+  director
+  actor
+
+ 
+
+// list of movies
+
+ 
+
+by movieTitle, 
+   language,
+    genre
+    director, 
+     actor
